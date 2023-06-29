@@ -44,7 +44,8 @@ You can configure:
 
 ## Screenshots
 
-<img src="https://raw.githubusercontent.com/maxlee12/RTSPCamera/master/img/demo.png" alt="Your Library" height="400"/> <img src="https://raw.githubusercontent.com/maxlee12/RTSPCamera/master/img/img.png" alt="Your Library" height="400"/>
+<img src="https://raw.githubusercontent.com/maxlee12/RTSPCamera/master/img/demo.jpg" alt="Your Library" height="400"/> 
+<img src="https://raw.githubusercontent.com/maxlee12/RTSPCamera/master/img/img.png" alt="Your Library" height="400"/>
 
 
 ## (默认RTSP的地址为：RTSP://ip:8086)
