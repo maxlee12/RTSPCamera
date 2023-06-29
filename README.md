@@ -60,3 +60,5 @@ Twitter: https://twitter.com/hype_app
 
 ## License
 >GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007
+
+[//]: # (默认RTSP的地址为：RTSP://ip:8086)

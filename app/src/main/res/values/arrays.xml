@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array translatable="false" name="resolutions">
+        <item name="0">800x480</item>
+        <item name="1">640x480</item>
+        <item name="2">480x320</item>
+        <item name="3">320x240</item>
+    </string-array>
+
+
+    <integer-array translatable="false" name="resolution_width">
+        <item>800</item>
+        <item>640</item>
+        <item>480</item>
+        <item>320</item>
+    </integer-array>
+
+    <integer-array translatable="false" name="resolution_height">
+        <item>480</item>
+        <item>480</item>
+        <item>320</item>
+        <item>240</item>
+    </integer-array>
+
+
+    <string-array translatable="false" name="stream_audio_bool">
+        <item name="0">ON</item>
+        <item name="1">OFF</item>
+    </string-array>
+
+    <string-array translatable="false" name="video_encoders">
+        <item name="0">H264</item>
+        <item name="1">H263</item>
+    </string-array>
+
+</resources>
